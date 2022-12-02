@@ -5,7 +5,7 @@
  
   <groupId>org.carlos3m.devops</groupId>
   <artifactId>myAppDAM</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>myAppDAM</name>
   <!-- FIXME change it to the project's website -->
