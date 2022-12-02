@@ -5,7 +5,7 @@
  
   <groupId>org.carlos3m.devops</groupId>
   <artifactId>myAppDAM</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
 
   <name>myAppDAM</name>
   <!-- FIXME change it to the project's website -->
@@ -68,7 +68,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/damlopezperez/carlos3m_devops.git</developerConnection>
-    <tag>myAppDAM-1.0</tag>
+    <tag>myAppDAM-1.1</tag>
   </scm>
 
    <build>
