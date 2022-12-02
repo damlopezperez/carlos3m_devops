@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>org.carlos3m.devops</groupId>
-  <artifactId>myAppFGS</artifactId>
+  <artifactId>myAppDAM</artifactId>
   <version>1.0</version>
 
-  <name>myAppFGS</name>
+  <name>myAppDAM</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -67,8 +67,8 @@
   </dependencies>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/pacosoft2000/carlos3m_devops.git</developerConnection>
-    <tag>myAppFGS-1.0</tag>
+    <developerConnection>scm:git:https://github.com/damlopezperez/carlos3m_devops.git</developerConnection>
+    <tag>myAppDAM-1.0</tag>
   </scm>
 
    <build>
